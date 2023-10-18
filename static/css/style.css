@@ -1,0 +1,26 @@
+.btn-primary {
+    color: #fff;
+    background-color: #dcb874;
+    border-color: #dcb874;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #dcb874;
+    border-color: #dcb874;
+}
+.btn-outline-primary{
+    color: #dcb874;
+    border-color: #dcb874;
+}
+.btn-outline-primary:hover{
+    color: #fff;
+    background-color: #dcb874;
+    border-color: #dcb874;
+}
+.nav-pills .nav-link.active{ 
+    background-color: #dcb874;
+} 
+.bg-wheat{
+    background-color: wheat;
+}
+
